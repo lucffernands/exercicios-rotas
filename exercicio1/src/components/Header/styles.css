@@ -1,0 +1,12 @@
+header {
+    height: 80px;
+    background-color: var(--color-red);
+    color: var(--color-white);
+    display: flex;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 20px;
+}
+
